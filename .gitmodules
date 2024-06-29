@@ -1,0 +1,3 @@
+[submodule "build/build/simple-reactjs-app"]
+	path = build/build/simple-reactjs-app
+	url = https://github.com/aditya-sridhar/simple-reactjs-app.git
