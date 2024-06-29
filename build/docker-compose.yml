@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  nginx:
+    image: devops:1
+    container_name: project
+    ports:
+      - "80:80"
+
